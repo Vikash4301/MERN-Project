@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "The Calculatiin Stars",
+        "title": "Fiction - The Catcher in the Rye",
+        "price": "₹199.99",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713982129~exp=1713985729~hmac=9e07be9f0bf28eb669cae2d81887a3f688f235e6cf611e7ef022fe72fab67fd3&w=740"
+    },
+    {
+        "id": 2,
+        "name": "To Kill a Mockingbird",
+        "title": "To Kill a Mockingbird",
+        "price": "₹399.50",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713982129~exp=1713985729~hmac=9e07be9f0bf28eb669cae2d81887a3f688f235e6cf611e7ef022fe72fab67fd3&w=740"
+    },
+    {
+        "id": 3,
+        "name": "1984",
+        "title": "1984",
+        "price": "₹99.99",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713982129~exp=1713985729~hmac=9e07be9f0bf28eb669cae2d81887a3f688f235e6cf611e7ef022fe72fab67fd3&w=740"
+    },
+    {
+        "id": 4,
+        "name": "Pride and Prejudice",
+        "title": "Pride and Prejudice",
+        "price": "₹199.99",
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713982129~exp=1713985729~hmac=9e07be9f0bf28eb669cae2d81887a3f688f235e6cf611e7ef022fe72fab67fd3&w=740"
+    },
+    {
+        "id": 5,
+        "name": "The Great Gatsby",
+        "title": "The Great Gatsby",
+        "price": "₹199.99",
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713982129~exp=1713985729~hmac=9e07be9f0bf28eb669cae2d81887a3f688f235e6cf611e7ef022fe72fab67fd3&w=740"
+    },
+    {
+        "id": 6,
+        "name": "Animal Farm",
+        "title": "Animal Farm",
+        "price": "₹199.99",
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713982129~exp=1713985729~hmac=9e07be9f0bf28eb669cae2d81887a3f688f235e6cf611e7ef022fe72fab67fd3&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Harry Potter and the Sorcerer's Stone",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "price": "₹199.99",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713982129~exp=1713985729~hmac=9e07be9f0bf28eb669cae2d81887a3f688f235e6cf611e7ef022fe72fab67fd3&w=740"
+    },
+    {
+        "id": 8,
+        "name": "The Hobbit",
+        "title": "The Hobbit",
+        "price": "₹199.99",
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713982129~exp=1713985729~hmac=9e07be9f0bf28eb669cae2d81887a3f688f235e6cf611e7ef022fe72fab67fd3&w=740"
+    },
+    {
+        "id": 9,
+        "name": "Lord of the Flies",
+        "title": "Lord of the Flies",
+        "price": "₹199.99",
+        "category": "Free",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713982129~exp=1713985729~hmac=9e07be9f0bf28eb669cae2d81887a3f688f235e6cf611e7ef022fe72fab67fd3&w=740"
+    },
+    {
+        "id": 10,
+        "name": "Frankenstein",
+        "title": "Frankenstein",
+        "price": "₹199.99",
+        "category": "Paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1713982129~exp=1713985729~hmac=9e07be9f0bf28eb669cae2d81887a3f688f235e6cf611e7ef022fe72fab67fd3&w=740"
+    }
+]
